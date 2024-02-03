@@ -1,0 +1,50 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:/Users/shoab/OneDrive/Desktop/Lab__CSE"
+		},
+		{
+			"path": "../Backend"
+		},
+		{
+			"path": "Java_23"
+		},
+		{
+			"path": "../Opencv"
+		},
+		{
+			"path": "Java_Practice"
+		},
+		{
+			"path": "java_gui"
+		},
+		{
+			"path": "Database"
+		},
+		{
+			"path": "C:/Users/shoab/Downloads/databaseconnectivity"
+		},
+		{
+			"path": "CT_practice"
+		},
+		{
+			"path": "../DataBase"
+		},
+		{
+			"path": "../Academic Study/Java_lab_exam"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp"
+		},
+		"[python]": {
+			"editor.defaultFormatter": "ms-python.python"
+		},
+		"python.formatting.provider": "none"
+	}
+}
